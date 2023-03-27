@@ -3,7 +3,7 @@
 
 Rotating shape animator 
 
-<img src="https://github.com/ehsanemamipour/rotating_shape/blob/main/screenshots/rotating_shape.gif" height="15%" alt="example" style="width: 35%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://github.com/ehsanemamipour/rotating_shape/blob/main/screenshots/rotating_shape.gif?raw=true" height="15%" alt="example" style="width: 35%; display: inline-block;" data-target="animated-image.originalImage">
 
 ## Features
 
